@@ -13,8 +13,8 @@
 
 <!-- STATISTICS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%; max-height: 164px" src="https://github-readme-stats.vercel.app/api?username=sahdibernardi&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahdibernardi&theme=tokyonight&hide_border=true"/>
+  <img style="height:100%;width:49%;max-width: 100%; max-height: 164px" src="https://github-readme-stats.vercel.app/api?username=garciapaulo95&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=garciapaulo95&theme=tokyonight&hide_border=true"/>
 </div>
 
 <p>
@@ -28,7 +28,7 @@ I have a passion for learning new things and any intellectual challenges.
 
 - 📚 I've studied at [Rocketseat](https://www.rocketseat.com/)
 
-- 🏙 I talk about tech and Coding at[Instagram](https://www.instagram.com/senhorgarcia)
+- 🏙 I talk about tech and Coding at [Instagram](https://www.instagram.com/senhorgarcia)
 
 - 🏗️ I'm currently building my [Portfolio](https://www.be.net/garciapaulo95)
 
@@ -123,5 +123,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
