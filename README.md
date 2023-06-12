@@ -26,7 +26,7 @@ I have a passion for learning new things and any intellectual challenges.
 
 </p>
 
-- 📚 I've studied at [Rocketseat](https://www.rocketseat.com/)
+- 📚 I've studied at [Rocketseat](https://www.rocketseat.com.br/)
 
 - 🏙 I talk about tech and Coding at [Instagram](https://www.instagram.com/senhorgarcia)
 
