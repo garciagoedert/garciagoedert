@@ -3,9 +3,9 @@
 
 <!-- Intoduction -->
 
-# Sahra Di Bernardi
+# Paulo Garcia
 
-### 👩‍💻 Full-stack Software Engineer
+### 👩‍💻 Front-end developer
 
 <!-- About me -->
 
