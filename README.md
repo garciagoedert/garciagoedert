@@ -5,7 +5,7 @@
 
 # Paulo Garcia
 
-### 👩‍💻 Front-end developer
+### 👨🏼‍💻 Front-end developer
 
 <!-- About me -->
 
