@@ -50,7 +50,7 @@ I have a passion for learning new things and any intellectual challenges.
 
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,vue,nextjs,ts,express,jest,redux,html,css,py,django,sass,sequelize,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,vue,nextjs,ts,html,css,py,sass,bootstrap" />
   </a>
 </p>
 
