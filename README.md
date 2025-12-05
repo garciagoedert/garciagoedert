@@ -21,7 +21,7 @@
         <li>🌱 Currently diving deeper into the React ecosystem and exploring Next.js</li>
         <li>👯 Looking to collaborate on exciting open-source front-end projects</li>
         <li>💬 Ask me about UI/UX design principles, responsive web design, and CSS art</li>
-        <li>📫 Reach me at: <strong>garciagoedert@gmail.com</strong></li>
+        <li>📫 Reach me at: <strong>garciapaulo1995@gmail.com</strong></li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
